@@ -51,6 +51,7 @@ a{
 table{
     border: 2px solid #000000;
     border-radius: 10px;
+    margin:auto;
 }
 
 .colhead{
@@ -60,6 +61,7 @@ table{
   min-width: 125px;
   padding: 10px;
   vertical-align: center;
+  text-transform: uppercase;
 }
 
 .rowhead{
