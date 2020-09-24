@@ -108,7 +108,7 @@ tbody tr:nth-child(even){
   border: 3px dashed #417243;
 }
 
-tr:hover{
+tbody tr:hover{
   background-color: rgba(126,8,32,.25);
 }
 
